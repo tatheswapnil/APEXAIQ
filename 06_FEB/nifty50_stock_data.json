@@ -1,0 +1,122 @@
+{
+    "AAPL": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "AAPL",
+        "open": 183.985,
+        "high": 186.95,
+        "low": 183.82,
+        "close": 186.86,
+        "volume": 64885408.0,
+        "afterHours": 181.4,
+        "preMarket": 185.49
+    },
+    "MSFT": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "MSFT",
+        "open": 401.83,
+        "high": 408,
+        "low": 401.8,
+        "close": 403.78,
+        "volume": 30656726.0,
+        "afterHours": 406.9,
+        "preMarket": 400.15
+    },
+    "GOOGL": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "GOOGL",
+        "open": 142.12,
+        "high": 143.06,
+        "low": 140.79,
+        "close": 141.16,
+        "volume": 40466549.0,
+        "afterHours": 141.87,
+        "preMarket": 141.65
+    },
+    "AMZN": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "AMZN",
+        "open": 155.87,
+        "high": 159.76,
+        "low": 155.62,
+        "close": 159.28,
+        "volume": 76222119.0,
+        "afterHours": 170.6,
+        "preMarket": 156.99
+    },
+    "TSLA": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "TSLA",
+        "open": 188.5,
+        "high": 189.88,
+        "low": 184.28,
+        "close": 188.86,
+        "volume": 91843275.0,
+        "afterHours": 189.57,
+        "preMarket": 190.03
+    },
+    "LMT": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "LMT",
+        "open": 430.23,
+        "high": 431.77,
+        "low": 426.7,
+        "close": 429.77,
+        "volume": 1175196.0,
+        "afterHours": 429.8,
+        "preMarket": 430.63
+    },
+    "INTC": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "INTC",
+        "open": 43.15,
+        "high": 43.57,
+        "low": 42.485,
+        "close": 43.36,
+        "volume": 38819855.0,
+        "afterHours": 43,
+        "preMarket": 43.25
+    },
+    "GE": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "GE",
+        "open": 106.1692,
+        "high": 108.1085,
+        "low": 105.7223,
+        "close": 108.0686,
+        "volume": 6190604.378,
+        "afterHours": 108.1245,
+        "preMarket": 105.6664
+    },
+    "MMM": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "MMM",
+        "open": 78.9214,
+        "high": 80.2843,
+        "low": 78.5452,
+        "close": 80.1923,
+        "volume": 3943628.208,
+        "afterHours": 80.1003,
+        "preMarket": 79.2726
+    },
+    "CAT": {
+        "status": "OK",
+        "from": "2024-02-01",
+        "symbol": "CAT",
+        "open": 303.24,
+        "high": 308.07,
+        "low": 301.94,
+        "close": 307.69,
+        "volume": 3196264.0,
+        "afterHours": 307.8,
+        "preMarket": 301.71
+    }
+}
