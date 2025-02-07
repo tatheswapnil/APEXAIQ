@@ -1,0 +1,7 @@
+The file "data_fetching_using_polygon_api.py"  contains the code to collect the data of the required stock
+and store the data in the json file named as "nifty50_stock_data.json".
+
+The file "testing_data_using_pytest" is used to test the json file stored by using api and some assertions are given to test
+the data. The assertions were :
+          1. If the opening price of stock is more than the closing price.
+          2. If the diffrence between the opening price and closing price of stock is positively more in the stock.
